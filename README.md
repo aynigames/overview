@@ -22,6 +22,9 @@ Microsoft lanzó un programa de recompensas para los usuarios de Xbox en donde p
 Nike lanzó una app móvil la cual registra la actividad física del usuario, a su vez la app te propone objetivos a cumplir y cuando estos son logrados el usuario recibe trofeos, recompensas los cuales pueden ser compartidos en redes sociales.
 
 
+## AyniPlay
+
+
 ```markdown
 Syntax highlighted code block
 
