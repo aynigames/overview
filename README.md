@@ -1,20 +1,26 @@
-## Bienvenido a AyniPlay
+# Bienvenido a AyniPlay
 
 
-### Introducción
+## Introducción
 
 En muchas organizaciones surge un problema común el cual es la falta de motivación. Esto puede provenir tanto del lado de trabajadores como de clientes, por ejemplo, este problema visto desde el lado del cliente puede generar tendencias a pérdida de lealtad pudiendo llegar al punto de perder dicho cliente y visto desde el lado del trabajador reduce la productividad o desinterés por el trabajo hecho.
-A este problema común surge una forma de captar el interés y motivar a las personas con el fin que cumplan los objetivos establecidos y aun mejor, que den lo mejor de si; esta solución es conocida como Gamification.
+A este problema común surgen dos formas de captar el interés y motivar a las personas con el fin que cumplan los objetivos establecidos y aun mejor, que den lo mejor de si; estas soluciones son la Gamificación y los Sistemas de Recompensa.
 
 
-### Gamificación
+## Casos de Éxito
 
-Gamification trata sobre motivar a que las personas logren cumplir sus objetivos, no los de la organización. Esto puede sonar contradictorio para una organización ya que todas buscan ser rentables, pero se ha demostrado que los intereses personales tanto de los trabajadores y/o clientes están usualmente alineados a los objetivos de la organización.
-La Gamificación usa principalmente recompensas intrínsecas en lugar de extrinsecas. Estas recompensas intrinsecas son a nivel emocional a diferencia de las extrínsecas que funcionan a un nivel transaccional.
-Desde la perspectiva de Gamificación la motivación tiene 3 elementos:
-- Autonomía: el desee de hacer las cosas por voluntad propia.
-- Maestría: las ganas de querer progresar y ser mejores en algo que realmente importe.
-- Razón de ser: debe estar enfocado en 1 o más de los 3 objetivos principales los cuales son Cambiar conductas, Desarrollar habilidades, Impulsar la innovación
+### Pain Squad
+En el Hospital Sick Kids de Toronto en Canadá se creó una app para niños con cáncer con la finalidad que los doctores conozcan el nivel de dolor que sienten al recibir los tratamientos médicos. A esta app se le denominó Pain Squad y fue un caso de éxito pudiendo así tener información en tiempo real de cuál es el mejor tratamiento médico para los pacientes.
+
+### BBVA
+El banco BBVA creó un sistema de recompensas para sus usuarios con el fin de incentivar el uso de su Banca Online, esto permitió reducir el costo en sus otros canales de banca.
+
+### Xbox Live
+Microsoft lanzó un programa de recompensas para los usuarios de Xbox en donde por jugar determinada cantidad de horas o lograr objetivos de los juegos reciben puntos los cuales luego puede ser canjeado por productos de la propia Microsoft. Esto logró incentivar a la comunidad para que sean más activos dentro del ecosistema Xbox Live y generar lealtad por parte de sus usuarios.
+
+### Nike+
+Nike lanzó una app móvil la cual registra la actividad física del usuario, a su vez la app te propone objetivos a cumplir y cuando estos son logrados el usuario recibe trofeos, recompensas los cuales pueden ser compartidos en redes sociales.
+
 
 ```markdown
 Syntax highlighted code block
