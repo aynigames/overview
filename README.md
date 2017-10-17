@@ -24,6 +24,10 @@ Nike lanzó una app móvil la cual registra la actividad física del usuario, a 
 ### Pink
 Victoria Secret lanzó una app móvil en donde los usuarios obtienen PinkPoints a medida que participen en ofertas lanzadas por la tienda y luego pueden usar dichos puntos para canjear productos. Gracias a esto las ventas de Victoria Secret crecieron en el año 2014.
 
+### Foldit
+Las Universidades de Northeastern y Washington lanzaron el proyecto Foldit en donde cualquier usuario puede crear modelos de estructuras proteicas. Para el año 2011 se pudieron crear 5400 modelos los cuales ayudaron a poder identificar nuevas formas de vacunas o tratamientos médicos potenciales.
+
+
 ## AyniPlay
 
 
