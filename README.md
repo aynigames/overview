@@ -1,8 +1,12 @@
-## Welcome to GitHub Pagez
+## Bienvenido a AyniPlay
 
-You can use the [editor on GitHub](https://github.com/aynigames/overview/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+AyniPlay es una tool unica que te ayudará a montar tu Gamificacion en la nube,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introducción
+
+En muchas organizaciones surge un problema común el cual es la falta de motivación. Esto puede provenir tanto del lado de trabajadores como de clientes, por ejemplo, este problema visto desde el lado del cliente puede generar tendencias a pérdida de lealtad pudiendo llegar al punto de perder dicho cliente y visto desde el lado del trabajador reduce la productividad o desinterés por el trabajo hecho.
+A este problema común surge una forma de captar el interés y motivar a las personas con el fin que cumplan los objetivos establecidos y aun mejor, que den lo mejor de si; esta solución es conocida como Gamification.
+
 
 ### Markdown
 
