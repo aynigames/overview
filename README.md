@@ -1,6 +1,5 @@
 ## Bienvenido a AyniPlay
 
-AyniPlay es una tool unica que te ayudará a montar tu Gamificacion en la nube,
 
 ### Introducción
 
@@ -8,9 +7,14 @@ En muchas organizaciones surge un problema común el cual es la falta de motivac
 A este problema común surge una forma de captar el interés y motivar a las personas con el fin que cumplan los objetivos establecidos y aun mejor, que den lo mejor de si; esta solución es conocida como Gamification.
 
 
-### Markdown
+### Gamificación
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gamification trata sobre motivar a que las personas logren cumplir sus objetivos, no los de la organización. Esto puede sonar contradictorio para una organización ya que todas buscan ser rentables, pero se ha demostrado que los intereses personales tanto de los trabajadores y/o clientes están usualmente alineados a los objetivos de la organización.
+La Gamificación usa principalmente recompensas intrínsecas en lugar de extrinsecas. Estas recompensas intrinsecas son a nivel emocional a diferencia de las extrínsecas que funcionan a un nivel transaccional.
+Desde la perspectiva de Gamificación la motivación tiene 3 elementos:
+- Autonomía: el desee de hacer las cosas por voluntad propia.
+- Maestría: las ganas de querer progresar y ser mejores en algo que realmente importe.
+- Razón de ser: debe estar enfocado en 1 o más de los 3 objetivos principales los cuales son Cambiar conductas, Desarrollar habilidades, Impulsar la innovación
 
 ```markdown
 Syntax highlighted code block
