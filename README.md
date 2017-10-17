@@ -21,6 +21,8 @@ Microsoft lanzó un programa de recompensas para los usuarios de Xbox en donde p
 ### Nike+
 Nike lanzó una app móvil la cual registra la actividad física del usuario, a su vez la app te propone objetivos a cumplir y cuando estos son logrados el usuario recibe trofeos, recompensas los cuales pueden ser compartidos en redes sociales.
 
+### Pink
+Victoria Secret lanzó una app móvil en donde los usuarios obtienen PinkPoints a medida que participen en ofertas lanzadas por la tienda y luego pueden usar dichos puntos para canjear productos. Gracias a esto las ventas de Victoria Secret crecieron en el año 2014.
 
 ## AyniPlay
 
